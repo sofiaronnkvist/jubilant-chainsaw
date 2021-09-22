@@ -3,3 +3,7 @@
 ## My funny title!
 
 # jubilant-chainsaw
+
+:speech_balloon:
+:clap:
+:surfer:
